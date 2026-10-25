@@ -1,0 +1,8 @@
+streamlit>=1.35,<2.0
+numpy>=1.26,<3.0
+librosa>=0.10.2,<1.0
+soundfile>=0.12.1
+torch>=2.2
+transformers>=4.45,<5.0
+matplotlib>=3.8
+reportlab>=4.0
